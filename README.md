@@ -11,7 +11,7 @@
 - Phương thức chạy request
 
 
-## Screenshots
+## Hình ảnh
 
 ![App Screenshot](https://i.imgur.com/JCPK5c2.png)
 
